@@ -11,6 +11,7 @@ Curated list of project starters to enhance productivity.
 ## Electron
 
 - [generator-electron](https://github.com/sindresorhus/generator-electron) Yeoman generator for Electron apps
+- [menubar](https://github.com/maxogden/menubar) Electron menubar desktop application starter
 
 ## React
 

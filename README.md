@@ -19,6 +19,7 @@ Curated list of project starters to enhance productivity.
 
 ## React Native
 
+- [Create React Native App](https://github.com/react-community/create-react-native-app)
 - [Ignite](https://infinite.red/ignite) An unfair head start for your React Native apps
 - [Pepperoni](http://getpepperoni.com/) Kickstart your mobile product development for Android and iOS
 

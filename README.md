@@ -29,6 +29,7 @@ Curated list of project starters to enhance productivity.
 
 ## WordPress
 
+- [Components](http://components.underscores.me/) A collection of patterns for creating a custom starter WordPress theme
 - [HTML5 Blank WordPress Theme](http://html5blank.com/) Powerful shell for rapidly building your WordPress projects
 - [Underscores](http://underscores.me/) A starter theme for WordPress
 

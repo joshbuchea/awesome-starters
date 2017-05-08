@@ -28,6 +28,7 @@ Curated list of project starters to enhance productivity.
 - [Bootstrap](http://getbootstrap.com/) The world's most popular mobile-first and responsive front-end framework
 - [Foundation for Sites](http://foundation.zurb.com/sites.html) Get from Prototype to Production
 - [HTML5 Boilerplate](https://html5boilerplate.com/) The web’s most popular front-end template
+- [Web Starter Kit](https://github.com/google/web-starter-kit) A starter kit for multi-device websites by Google
 
 ## WordPress
 
